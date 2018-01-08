@@ -6,3 +6,4 @@ hello:
 test
 
 reset
+hello:
